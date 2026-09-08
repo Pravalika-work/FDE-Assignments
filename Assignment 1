@@ -1,0 +1,78 @@
+1.  OpenSource vs Closed source
+
+## What is Source Code?
+
+Source code is the programming code used to create software.
+
+For example, when a developer creates an application, they write programming code to build that application. This programming code is called source code.
+
+## Open Source
+
+Open-source software is software where the source code is available to the public.
+
+Developers can view the source code, understand how it works, and, depending on the license, modify and contribute to the code.
+
+Examples: Linux, Python, Git, and Kubernetes.
+
+## Closed Source
+
+Closed-source software is software where the source code is kept private.
+
+The company owns and controls the source code, and the public cannot view or modify it. Users can use the software, but they generally do not have access to its source code.
+
+Examples: Microsoft Windows and Adobe Photoshop.
+
+
+2.what is MLOps
+
+MLOps means machine learning operations.
+MLOPs is like devops for machine learning
+When we create models it needs
+1. New data
+2.monitoring
+3.Testing
+4.Retraining
+5.Deployment of newer versions
+MLops manages above process 
+
+
+3.Full Stack Developer
+A Full stack developr works with different parts of application
+FrontEnd
+BackEnd
+Database
+
+4. How do MLops and FullStack Connect?
+User--> FrontEnd--?BackendAPI-->ML Model-->Database
+
+MLOps helps make sure the ML model can be
+Trained
+Deployed
+Updated
+Monitored
+Maintained
+
+5.What is Kaggle?
+
+Kaggle is a online platform used by machinelearning and datascience people.
+Like Learn + Practise +Build+ Compete
+
+6.What Can you find on kaggle?
+Datasets,Notebooks etc..
+As a FDE learner, You can use kaggle to
+Practice python
+Learn ML
+Work with real datasets
+Build projects
+create portfolios
+
+7.Vibe Coding and Vibe Enginner?
+AI helps to create software through natural-language instructions rather than manually writing the code.
+
+Vibe Enginner: Is someone who uses AI to generate code as part of their software development.
+
+8. What is hugging Face?
+
+It is an AI and machine learning platform/community
+WE have a Hugging Face Hub where developers and researches can share  and use AI Models and datasets.
+
