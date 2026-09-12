@@ -1,0 +1,42 @@
+1. Understand HTTPS,SSH,GitHub CLI in git
+
+HTTPS ans SSH ways to connect git to github.
+GitHub CLI is a tool for managing GitHub from the command line.
+
+Https: GitHub Authenticates you using credentials/token. Usually Through github credential manager or a browser-based login.
+SSH: Create SHH key on computer and add the public key to github.
+GitHub CLI: It is a command line program for working with github.
+
+
+2. Understand what is JIra
+Jira is a project management and issue-tracking tool developed by Atlassian. Software development teams use it to plan work, track tasks,report bugs and manage projects
+
+3.Difference between fetch and pull
+Both commands get the latest changes from the remote repository
+GitFetch: Get the latest changes but doesnot change current branch or working code
+GitPull: Get the latest changes and immediatly integrates changes into current branch
+
+4. Git commands:
+Command	Purpose
+git init	Creates a new Git repository
+git clone	Copies a remote repository to your computer
+git status	Shows the current status of your files
+git add	Adds changes to the staging area
+git commit	Saves staged changes to Git history
+git push	Uploads commits to a remote repository
+git pull	Downloads and integrates changes from a remote repository
+git fetch	Downloads remote changes without integrating them
+git branch	Creates or lists branches
+git checkout	Switches branches or restores files
+git switch	Switches between branches
+git merge	Combines one branch with another
+git log	Shows commit history
+git diff	Shows changes between versions
+git remote	Manages remote repositories
+git reset	Undoes or moves changes/commits
+git revert	Creates a new commit that undoes a previous commit
+git rm	Removes a file from Git
+git mv	Renames or moves a file
+
+git bash:
+It si an command line terminal for windows that comes with git.That allows you to integrate with the terminal.
